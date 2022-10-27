@@ -3,3 +3,9 @@ I am zohid
 I am Golang Developer
 
 My hobby and job is writing program
+
+I am speaker 
+
+I know English language 
+
+i know mathematic
